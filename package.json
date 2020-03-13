@@ -1,0 +1,19 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevincMammadova/HW6.git"
+  },
+  "author": "Mammadova Sevinc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SevincMammadova/HW6/issues"
+  },
+  "homepage": "https://github.com/SevincMammadova/HW6#readme"
+}
